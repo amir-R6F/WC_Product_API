@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e800af17-be45-4b10-87a2-3cd164932dd4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/automattic/woocommerce" />
+      <path value="$PROJECT_DIR$/../../../wp-includes" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2WUaezefMuNMeUMZhjfD2B5nt6Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inc/admin" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\wp-content\plugins\saba\inc\admin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e800af17-be45-4b10-87a2-3cd164932dd4" name="Changes" comment="" />
+      <created>1696789751868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696789751868</updated>
+      <workItem from="1696789773494" duration="592000" />
+      <workItem from="1696998569587" duration="2831000" />
+      <workItem from="1699014643470" duration="9494000" />
+      <workItem from="1699034389006" duration="5910000" />
+      <workItem from="1699197301892" duration="3143000" />
+      <workItem from="1699202514610" duration="70000" />
+      <workItem from="1699203424030" duration="1106000" />
+      <workItem from="1699207290079" duration="7825000" />
+      <workItem from="1699274675649" duration="772000" />
+      <workItem from="1699277890279" duration="8902000" />
+      <workItem from="1699300368189" duration="5543000" />
+      <workItem from="1699333086225" duration="1952000" />
+      <workItem from="1699342367865" duration="3502000" />
+      <workItem from="1699376954771" duration="7011000" />
+      <workItem from="1699391472393" duration="55000" />
+      <workItem from="1699419062063" duration="1696000" />
+      <workItem from="1699463241650" duration="657000" />
+      <workItem from="1700073653012" duration="6390000" />
+      <workItem from="1700112377789" duration="3726000" />
+      <workItem from="1700157087656" duration="2565000" />
+      <workItem from="1700284859062" duration="4982000" />
+      <workItem from="1700289896055" duration="3828000" />
+      <workItem from="1701510384630" duration="8384000" />
+      <workItem from="1701577275141" duration="4508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WordPressConfiguration" doNotAskAgain="true" />
+</project>
